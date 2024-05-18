@@ -149,7 +149,7 @@
       <div class="container mx-auto mb-4">
         <div class="flex justify-center text-center mb-4">
           <h3 class="text-2xl capitalize font-semibold">
-            Just Arrived <br class="" />this summer for you
+            Ada Apa di Kami
           </h3>
         </div>
       </div>
@@ -464,7 +464,7 @@
     <!-- END: JUST ARRIVED -->
 
     <!-- START: CLIENTS -->
-    <section class="container mx-auto">
+    {{-- <section class="container mx-auto">
       <div class="flex justify-center flex-wrap">
         <div
           class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
@@ -491,6 +491,6 @@
           <img src="{{ url('/frontend/images/content/logo-miele.svg')}}" alt="" class="mx-auto" />
         </div>
       </div>
-    </section>
+    </section> --}}
     <!-- END: CLIENTS -->
 @endsection

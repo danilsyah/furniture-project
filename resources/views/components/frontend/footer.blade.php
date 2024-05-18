@@ -2,11 +2,12 @@
 <section class="">
     <div class="border-t border-b border-gray-200 py-12 mt-16 px-4">
       <div class="flex justify-center mb-8">
-        <img width="100" height="134"
+        {{-- <img width="100" height="134"
           src="{{ url('/frontend/images/content/logo2.png')}}"
           alt="IndahJayaAbadi | Fulfill your house with beautiful furniture"
-        />
-      </div>
+        /> --}}
+        <h2 class="text-lg font-extrabold mb-5 relative">Indah Jaya Abadi</h2>
+      </div
       <aside class="container mx-auto">
         <div class="flex flex-wrap -mx-4 justify-center">
           <div class="px-4 w-full md:w-2/12 mb-4 md:mb-0 accordion">

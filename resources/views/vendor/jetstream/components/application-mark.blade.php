@@ -1,4 +1,4 @@
-<img width="100px"
-src="{{url('/frontend/images/content/logo2.png')}}"
-alt="IndahJayaAbadi | Fulfill your house with beautiful furniture"
+<img width="80px"
+  src="{{ url("/frontend/images/content/logo.png") }}"
+  alt="IndahJayaAbadi | Fulfill your house with beautiful furniture"
 />

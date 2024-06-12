@@ -1,4 +1,6 @@
-<img width="200px"
-src="{{url('/frontend/images/content/logo2.png')}}"
-alt="IndahJayaAbadi | Fulfill your house with beautiful furniture"
-/>
+<a href="/">
+    <img
+        src="/frontend/images/content/logo.png"
+        alt="Luxspace | Fulfill your house with beautiful furniture"
+    />
+</a>
